@@ -39,10 +39,10 @@ Contoh:
 ---
 
 ## 👨‍💻 Anggota Kelompok
-- 1. Afriza Nugraha Ada Goza  
-- 2. Andina Stevy  
-- 3. Dimas Nur Cipta Suseno  
-- 4. Hardiansyah Aditya Pratama  
+- 1 Afriza Nugraha Ada Goza  
+- 2 Andina Stevy  
+- 3 Dimas Nur Cipta Suseno  
+- 4 Hardiansyah Aditya Pratama  
 
 ---
 
