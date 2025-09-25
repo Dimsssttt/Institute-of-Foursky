@@ -20,16 +20,6 @@ Website ini dibuat sebagai tugas sekolah dalam mata pelajaran **Informatika**.
 - **Database** : MySQL  
 - **Tools** : VS Code, XAMPP / phpMyAdmin  
 
----
-
-## 🚀 Cara Menjalankan
-1. Clone repository ini atau download file ZIP.  
-2. Simpan project di folder server lokal (contoh: `htdocs` untuk XAMPP).  
-3. Import database `db_ekstrakurikuler.sql` ke MySQL/phpMyAdmin.  
-4. Jalankan server (Apache & MySQL untuk XAMPP).  
-5. Buka browser lalu akses: `http://localhost/ekstrakurikuler`  
-
----
 
 ## 📊 Fitur Website
 - 📋 Daftar ekstrakurikuler sekolah (Paskibra, Kempo, Voli, Basket, Seni, Musik)  
