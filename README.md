@@ -1,22 +1,22 @@
 # Institute-of-Foursky
-# 📚 Website Perpustakaan Sekolah
+# 🏫 Website Ekstrakurikuler Sekolah
 
 ---
 
 ## 👩‍🏫 Deskripsi
-Proyek ini adalah **website perpustakaan sekolah** yang dibuat untuk mempermudah siswa dan guru dalam:  
-- Melihat daftar eskul yang tersedia  
-- Mencari buku berdasarkan judul/penulis  
-- Melakukan peminjaman dan pengembalian buku  
-- Menyimpan data anggota perpustakaan secara digital  
+Proyek ini adalah **website ekstrakurikuler sekolah** yang dibuat untuk mempermudah siswa dan guru dalam:  
+- Melihat daftar ekstrakurikuler yang tersedia  
+- Melihat jadwal latihan dan kegiatan  
+- Melakukan pendaftaran anggota secara online  
+- Menyimpan data pembina dan anggota eskul secara digital  
 
-Website ini dibuat sebagai tugas sekolah dalam mata pelajaran **[tuliskan nama mata pelajaran, misalnya Informatika / Pemrograman Web]**.  
+Website ini dibuat sebagai tugas sekolah dalam mata pelajaran **Informatika**.  
 
 ---
 
 ## 🛠️ Teknologi yang Digunakan
 - **Frontend** : HTML, CSS, JavaScript  
-- **Backend** : PHP / Node.js (pilih sesuai proyekmu)  
+- **Backend** : PHP (atau Node.js, sesuai kebutuhan)  
 - **Database** : MySQL  
 - **Tools** : VS Code, XAMPP / phpMyAdmin  
 
@@ -25,17 +25,18 @@ Website ini dibuat sebagai tugas sekolah dalam mata pelajaran **[tuliskan nama m
 ## 🚀 Cara Menjalankan
 1. Clone repository ini atau download file ZIP.  
 2. Simpan project di folder server lokal (contoh: `htdocs` untuk XAMPP).  
-3. Import database `perpustakaan.sql` ke MySQL/phpMyAdmin.  
+3. Import database `db_ekstrakurikuler.sql` ke MySQL/phpMyAdmin.  
 4. Jalankan server (Apache & MySQL untuk XAMPP).  
-5. Buka browser lalu akses:  
+5. Buka browser lalu akses: `http://localhost/ekstrakurikuler`  
+
 ---
 
 ## 📊 Fitur Website
-- 🔍 Pencarian buku berdasarkan judul/penulis/kategori  
-- 📖 Daftar koleksi buku perpustakaan  
-- 👩‍🎓 Manajemen data anggota perpustakaan  
-- 📝 Sistem peminjaman & pengembalian buku  
-- 🔐 Login admin untuk mengelola buku & anggota  
+- 📋 Daftar ekstrakurikuler sekolah (Paskibra, Kempo, Voli, Basket, Seni, Musik)  
+- 📅 Jadwal latihan & agenda kegiatan  
+- 👩‍🎓 Pendaftaran anggota secara online  
+- 🧑‍🏫 Data pembina ekstrakurikuler  
+- 🔐 Login admin untuk mengelola data eskul & anggota  
 
 ---
 
@@ -48,18 +49,19 @@ Contoh:
 ---
 
 ## 👨‍💻 Anggota Kelompok
-- Nama 1.Afriza Nugraha Ada Goza
-- Nama 2.Andina Stevy
-- Nama 3.Dimas Nur Cipta Suseno
-- Nama 4.Hardiansyah Aditya Pratama
+- 1. Afriza Nugraha Ada Goza  
+- 2. Andina Stevy  
+- 3. Dimas Nur Cipta Suseno  
+- 4. Hardiansyah Aditya Pratama  
 
 ---
 
 ## 📌 Kesimpulan
-Website perpustakaan sekolah ini dapat membantu:  
-- Siswa mencari buku lebih cepat  
-- Guru dan pustakawan mengelola data dengan mudah  
-- Mengurangi penggunaan kertas untuk pencatatan manual  
+Website ekstrakurikuler sekolah ini dapat membantu:  
+- Siswa mengetahui informasi eskul dengan mudah  
+- Mempermudah pendaftaran dan pencatatan anggota  
+- Membuat jadwal latihan lebih terorganisir  
+- Mengurangi pencatatan manual dengan digitalisasi data  
 
 ---
 
