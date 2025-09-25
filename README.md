@@ -34,7 +34,8 @@ Website ini dibuat sebagai tugas sekolah dalam mata pelajaran **PKK**.
 *(Tambahkan gambar hasil tampilan website di sini)*  
 Contoh:  
 
-![Tampilan Website] (WhatsApp Image 2025-09-25 at 08.36.16_90a8bdbb.jpg)  
+![Tampilan Website](./tampilan-website.png)
+  
 
 ---
 
