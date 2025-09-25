@@ -10,15 +10,15 @@ Proyek ini adalah **website ekstrakurikuler sekolah** yang dibuat untuk mempermu
 - Melakukan pendaftaran anggota secara online  
 - Menyimpan data pembina dan anggota eskul secara digital  
 
-Website ini dibuat sebagai tugas sekolah dalam mata pelajaran **Informatika**.  
+Website ini dibuat sebagai tugas sekolah dalam mata pelajaran **PKK**.  
 
 ---
 
 ## 🛠️ Teknologi yang Digunakan
-- **Frontend** : HTML, CSS, JavaScript  
-- **Backend** : PHP (atau Node.js, sesuai kebutuhan)  
-- **Database** : MySQL  
-- **Tools** : VS Code, XAMPP / phpMyAdmin  
+- **Frontend** : -
+- **Backend** : - 
+- **Database** : -
+- **Tools** : WordPress
 
 
 ## 📊 Fitur Website
