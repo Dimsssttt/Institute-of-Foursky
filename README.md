@@ -5,7 +5,7 @@
 
 ## 👩‍🏫 Deskripsi
 Proyek ini adalah **website perpustakaan sekolah** yang dibuat untuk mempermudah siswa dan guru dalam:  
-- Melihat daftar buku yang tersedia  
+- Melihat daftar eskul yang tersedia  
 - Mencari buku berdasarkan judul/penulis  
 - Melakukan peminjaman dan pengembalian buku  
 - Menyimpan data anggota perpustakaan secara digital  
@@ -48,9 +48,10 @@ Contoh:
 ---
 
 ## 👨‍💻 Anggota Kelompok
-- Nama 1 (NIS/NIM)  
-- Nama 2 (NIS/NIM)  
-- Nama 3 (NIS/NIM)  
+- Nama 1.Afriza Nugraha Ada Goza
+- Nama 2.Andina Stevy
+- Nama 3.Dimas Nur Cipta Suseno
+- Nama 4.Hardiansyah Aditya Pratama
 
 ---
 
