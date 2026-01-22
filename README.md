@@ -34,7 +34,7 @@ Website ini dibuat sebagai tugas sekolah dalam mata pelajaran **PKK**.
 *(Tambahkan gambar hasil tampilan website di sini)*  
 Contoh:  
 
-![Tampilan Website](./tampilan-website.png)
+
   
 
 ---
